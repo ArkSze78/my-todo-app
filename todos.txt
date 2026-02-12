@@ -1,0 +1,7 @@
+Learn Streamlit
+Hello to the world
+Eat donuts
+Buy grocery
+Do the laundry
+Make a dinner
+Create new app
